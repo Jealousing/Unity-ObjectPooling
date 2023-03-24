@@ -8,7 +8,7 @@
  Dictionary와 Tuple을 활용한 예시입니다.
  
 ## 유튜브
- [![Video Label](http://img.youtube.com/vi/'Wva4-o9ud-Y'/0.jpg)](https://youtu.be/'Wva4-o9ud-Y')
+ [![Video Label](http://img.youtube.com/vi/'Wva4-o9ud-Y'/0.jpg)](https://youtube.com/'Wva4-o9ud-Y')
  
 ## 주의사항
  유니티 2021버전이상 필요
